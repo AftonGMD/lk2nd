@@ -113,7 +113,7 @@
 s3ve3g {
 model = "Samsung Galaxy S III Neo (s3ve3g)";
 compatible = "samsung,s3ve3g";
-lk2nd,match-bootloader = "I930*";
+lk2nd,match-bootloader = "I9301*";
 
 lk2nd,dtb-files = "qcom-msm8226-samsung-s3ve3g";
 
